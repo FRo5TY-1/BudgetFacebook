@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "921313608217",
+    "project_id": "budgetfacebook-9b31e",
+    "storage_bucket": "budgetfacebook-9b31e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921313608217:android:ed352da8f30d1c7be3e088",
+        "android_client_info": {
+          "package_name": "com.example.budgetfacebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921313608217-kcsslu4rkdkrfnskaqbcngiv4h9emi97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDliedDELCb-w-L80uUtfHRsn2kSmcyTBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921313608217-kcsslu4rkdkrfnskaqbcngiv4h9emi97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
