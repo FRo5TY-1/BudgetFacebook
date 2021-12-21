@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BudgetFacebook</string>
+    <string name="register">Register</string>
+    <string name="repeat_password">Repeat Password</string>
 </resources>

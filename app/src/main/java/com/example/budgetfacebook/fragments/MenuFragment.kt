@@ -1,4 +1,4 @@
-package com.example.budgetfacebook.Fragments
+package com.example.budgetfacebook.fragments
 
 import android.content.Intent
 import android.os.Bundle

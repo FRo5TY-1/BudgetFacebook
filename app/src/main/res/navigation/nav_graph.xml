@@ -8,35 +8,27 @@
     <fragment
         android:id="@+id/homeFragment"
         tools:layout="@layout/fragment_home"
-        android:name="com.example.budgetfacebook.Fragments.HomeFragment"
-        android:label="HomeFragment" >
-        <action
-            android:id="@+id/action_homeFragment_to_profileFragment"
-            app:destination="@id/profileFragment" />
-    </fragment>
+        android:name="com.example.budgetfacebook.fragments.HomeFragment"
+        android:label="HomeFragment" />
     <fragment
         android:id="@+id/profileFragment"
         tools:layout="@layout/fragment_profile"
-        android:name="com.example.budgetfacebook.Fragments.ProfileFragment"
-        android:label="ProfileFragment" >
-        <argument
-            android:name="personName"
-            app:argType="string" />
-    </fragment>
+        android:name="com.example.budgetfacebook.fragments.ProfileFragment"
+        android:label="ProfileFragment" />
     <fragment
         android:id="@+id/groupsFragment"
         tools:layout="@layout/fragment_groups"
-        android:name="com.example.budgetfacebook.Fragments.GroupsFragment"
+        android:name="com.example.budgetfacebook.fragments.GroupsFragment"
         android:label="GroupsFragment" />
     <fragment
         android:id="@+id/notificationsFragment"
         tools:layout="@layout/fragment_notifications"
-        android:name="com.example.budgetfacebook.Fragments.NotificationsFragment"
+        android:name="com.example.budgetfacebook.fragments.NotificationsFragment"
         android:label="NotificationsFragment" />
     <fragment
         android:id="@+id/menuFragment"
         tools:layout="@layout/fragment_menu"
-        android:name="com.example.budgetfacebook.Fragments.MenuFragment"
+        android:name="com.example.budgetfacebook.fragments.MenuFragment"
         android:label="MenuFragment" />
 
 </navigation>
